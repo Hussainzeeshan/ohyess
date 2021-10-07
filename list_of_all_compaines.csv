@@ -14,7 +14,6 @@ SAZEW,Sazgar Engineering Works Limited,10,Jun,"46,496,893",Corptec Associates (P
 AGRT,Agriautos Industries Limited,5,Jun,"28,800,000",FAMCO Associates (Pvt.) Limited
 ATBA,Atlas Battery Limited,10,Jun,"24,359,676",Hameed Majeed Associates (Pvt.) Limited
 BWHL,Baluchistan Wheels Limited,10,Jun,"13,334,250",THK Associates (Pvt.) Limited
-BELA,Bela Automotive Limited,10,Jun,"5,800,000",JWAFFS Registrar Services (Pvt.) Limited
 DWAE,Dewan Automotive Engineering Limited,10,Jun,"21,400,000",BMF Consultants Pakistan (Pvt.) Limited
 EXIDE,Exide Pakistan Limited,10,Mar,"7,768,618",THK Associates (Pvt.) Limited
 GTYR,General Tyre and Rubber Co. of Pakistan Limited,10,Jun,"121,933,350",CDC Share Registrar Services Limited
@@ -24,7 +23,6 @@ THALL,Thal Limited,5,Jun,"81,029,917",FAMCO Associates (Pvt.) Limited
 EMCO,Emco Industries Limited,10,Jun,"34,999,667",Corplink (Pvt.) Limited
 JOPP,Johnson and Phillips (Pakistan) Limited,10,Jun,"5,450,000",C & K Management Associates (Pvt.) Limited
 PAEL,Pak Elektron Limited,10,Dec,"497,681,485",Corplink (Pvt.) Limited
-PELPS,Pak Elektron(Pref),10,Jun,"44,957,592",
 PCAL,Pakistan Cables Limited,10,Jun,"35,577,970",THK Associates (Pvt.) Limited
 SIEM,Siemens Pakistan Engineering Co. Limited,10,Sep,"8,247,037",THK Associates (Pvt.) Limited
 WAVES,Waves Singer Pakistan Limited,10,Dec,"281,406,088",Corplink (Pvt.) Limited
@@ -37,21 +35,17 @@ DNCC,Dandot Cement Company Limited,10,Jun,"94,840,000",Corplink (Pvt.) Limited
 DCL,Dewan Cement Limited,10,Jun,"484,113,343",BMF Consultants Pakistan (Pvt.) Limited
 FCCL,Fauji Cement Company Limited,10,Jun,"1,379,815,025",Corplink (Pvt.) Limited
 FECTC,Fecto Cement Limited,10,Jun,"50,160,000",F.D. Registrar Services (SMC-Pvt.) Limited
-FYCC,Flying Cement Company Limited,10,Jun,"376,000,000",THK Associates (Pvt.) Limited
+FYCC,Flying Cement Co Ltd,10,Jun,"376,000,000",THK Associates (Pvt.) Limited
 GWLC,Gharibwal Cement Limited,10,Jun,"400,273,960",Corplink (Pvt.) Limited
 JVDC,Javedan Corporation Limited,10,Jun,"317,383,706",CDC Share Registrar Services Limited
-JVDCPS,Javedan Corporation Limited (Pref Shares),10,Jun,"50,500",CDC Share Registrar Services Limited
 KOHC,Kohat Cement Limited,10,Jun,"200,861,297",Hameed Majeed Associates (Pvt.) Limited
 LUCK,Lucky Cement Limited,10,Jun,"323,375,000",CDC Share Registrar Services Limited
 MLCF,Maple Leaf Cement Factory Limited,10,Jun,"1,098,346,232",Vision Consulting Limited
 PIOC,Pioneer Cement Limited,10,Jun,"227,148,793",Corplink (Pvt.) Limited
 POWER,Power Cement Limited,10,Jun,"1,063,414,434",CDC Share Registrar Services Limited
-POWERPS,Power Cement PREF,10,Jun,"244,585,320",
 SMCPL,Safe Mix Concrete Limited,10,Jun,"25,000,000",THK Associates (Pvt.) Limited
 THCCL,Thatta Cement Company Limited,10,Jun,"99,718,125",THK Associates (Pvt.) Limited
-ZELP,Zeal Pak Cement Factory Limited,10,Jun,"427,838,526",Your Secretary (Pvt.) Limited
 AGL,Agritech Limited,10,Dec,"392,430,000",Hameed Majeed Associates (Pvt.) Limited
-AGLNCPS,Agritech Limited Non-voting Class (Pref Shares),10,Jun,"159,334,269",Hameed Majeed Associates (Pvt.) Limited
 ARPL,Archroma Pakistan Limited,10,Sep,"34,118,229",FAMCO Associates (Pvt.) Limited
 BAPL,Bawany Air Product Limited,10,Jun,"7,502,510",C & K Management Associates (Pvt.) Limited
 BERG,Berger Paints Pakistan Limited,10,Jun,"20,459,710",Corplink (Pvt.) Limited
@@ -61,7 +55,6 @@ COLG,Colgate Palmolive (Pakistan) Limited,10,Jun,"63,300,512",FAMCO Associates (
 DAAG,Data Agro Limited,10,Jun,"4,000,000",Hameed Majeed Associates (Pvt.) Limited
 DOL,Descon Oxychem Limited,10,Jun,"175,031,084",Corplink (Pvt.) Limited
 DYNO,Dynea Pakistan Limited,5,Jun,"18,872,400",FAMCO Associates (Pvt.) Limited
-EPCLPS,Engro Poly(PREF),10,Jun,"300,000,000",
 EPCL,Engro Polymer and Chemicals Limited,10,Dec,"908,923,333",FAMCO Associates (Pvt.) Limited
 GGL,Ghani Global Holdings Ltd,10,Jun,"279,936,435",Vision Consulting Limited
 ICI,ICI Pakistan Ltd,10,Jun,"92,359,050",FAMCO Associates (Pvt.) Limited
@@ -513,23 +506,4 @@ ASHT,Ashfaq Textile Mills Limited,10,Jun,"38,483,500",F.D. Registrar Services (S
 HKKT,Hakkim Textile Mills Limited,10,Sep,"5,394,800",
 ICCI,ICC Industries Limited,10,Jun,"30,001,120",Corplink (Pvt.) Limited
 MOHE,Mohib Exports Limited,10,Sep,"15,180,000",
-PRWM,Prosperity Weaving Mills Limited,10,Jun,"18,480,000",Hameed Majeed Associates (Pvt.) Limited
-SDOT,Sadoon Textile Mills Limited,10,Sep,"3,000,000",
-SMTM,Samin Textiles Limited,10,Jun,"26,728,000",Corplink (Pvt.) Limited
-SERF,Service Fabircs Limited,10,Jun,"15,754,800",THK Associates (Pvt.) Limited
-STJT,Shahtaj Textile Mills Limited,10,Jun,"9,660,000",JWAFFS Registrar Services (Pvt.) Limited
-YOUW,Yousuf Weaving Mills Limited,10,Jun,"90,000,000",Corplink (Pvt.) Limited
-ZTL,Zephyr Textile Limited,10,Jun,"59,428,729",THK Associates (Pvt.) Limited
-KHTC,Khyber Tobacco Company Limited,10,Jun,"4,807,200",CDC Share Registrar Services Limited
-PAKT,Pakistan Tobacco Company Limited,10,Dec,"255,493,792",FAMCO Associates (Pvt.) Limited
-PMPK,Philip Morris (Pakistan) Limited,10,Dec,"61,580,341",FAMCO Associates (Pvt.) Limited
-PIAa,Pakistan International Airline,10,Dec,"5,233,761,118",CDC Share Registrar Services Limited
-PIAB,Pakistan International Airlines Corporation (B Class Shares),5,Dec,"1,500,000",CDC Share Registrar Services Limited
-PIBTL,Pakistan International Bulk Terminal Limited,10,Jun,"1,786,092,772",CDC Share Registrar Services Limited
-PICT,Pakistan International Container Terminal Limited,10,Dec,"109,153,152",CDC Share Registrar Services Limited
-PNSC,Pakistan National Shipping Corp,10,Jun,"132,063,360",CDC Share Registrar Services Limited
-EXTR,Extraction (Pakistan) Limited,10,Sep,"1,000,000",
-POML,Punjab Oil Mills Limited,10,Jun,"5,390,625",Corplink (Pvt.) Limited
-SSOM,S S Oil Mills Ltd,10,Jun,"5,658,400",Corplink (Pvt.) Limited
-SURAJ,Suraj Ghee Industries Limited,10,Jun,"958,100",
-BNWM,Bannu Woollen Mills Limited,10,Jun,"9,506,250",Management & Registration Services (Pvt.) Limited
+PRWM,Prosperity Weaving Mills Limited,10,Jun,"18,4",
